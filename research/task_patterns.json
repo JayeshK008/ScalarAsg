@@ -1,0 +1,419 @@
+{
+  "source": "GitHub Issues API (public repositories)",
+  "repos_analyzed": [
+    "microsoft/vscode",
+    "facebook/react",
+    "vercel/next.js"
+  ],
+  "issue_samples": [
+    {
+      "title": "extensions: TreeItem `no-twisty` CSS not always following TreeItemCollapsibleState in 1.107.x (and Insiders)",
+      "labels": [
+        "bug",
+        "tree-views",
+        "insiders-released"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 4,
+      "has_assignee": true
+    },
+    {
+      "title": "The Move options in the tab editor context menu move the wrong tab",
+      "labels": [
+        "bug",
+        "workbench-tabs",
+        "confirmed"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 1,
+      "has_assignee": true
+    },
+    {
+      "title": "Git commands are expected to run with english language, yet the language isn’t set reliably, breaking features",
+      "labels": [
+        "bug",
+        "git",
+        "insiders-released"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Increase number of allowed webgl contexts in electron",
+      "labels": [
+        "bug",
+        "electron",
+        "insiders-released"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Inconsistent Naming: Voice vs Dictation",
+      "labels": [
+        "bug",
+        "insiders-released",
+        "workbench-voice"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Allow writing prompt with voice when session is in progress",
+      "labels": [
+        "feature-request",
+        "verification-needed",
+        "insiders-released"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 3,
+      "has_assignee": true
+    },
+    {
+      "title": "U",
+      "labels": [
+        "spam"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 1,
+      "has_assignee": false
+    },
+    {
+      "title": "Notebook cell incorrectly sized on load",
+      "labels": [
+        "bug",
+        "insiders-released",
+        "notebook-layout"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Cell editors overlap on scroll",
+      "labels": [
+        "bug",
+        "insiders-released",
+        "notebook-layout"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "[regression] Suggest status bar lost their keybinding labels",
+      "labels": [
+        "bug",
+        "important",
+        "suggest"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 1,
+      "has_assignee": true
+    },
+    {
+      "title": "Unhandled `CancellationError` in WordHighlighter when disposed during pending delayed operation.",
+      "labels": [
+        "insiders-released"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 1,
+      "has_assignee": true
+    },
+    {
+      "title": "Make it more obvious when auto approval is denied by a false rule",
+      "labels": [
+        "feature-request",
+        "verification-needed",
+        "insiders-released"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Cannot read properties of undefined (reading 'querySelector')",
+      "labels": [
+        "error-telemetry",
+        "insiders-released"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Terminal file links (Ctrl+Click) not working after latest VS Code update",
+      "labels": [],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": false
+    },
+    {
+      "title": "GitHub Copilot chat text entry periodically freezes typing for several seconds",
+      "labels": [],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 6,
+      "has_assignee": true
+    },
+    {
+      "title": "File link <filename>:<linenumber> no longer clickable from log file",
+      "labels": [
+        "triage-needed"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 2,
+      "has_assignee": true
+    },
+    {
+      "title": "VScode test web issue",
+      "labels": [
+        "triage-needed"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 1,
+      "has_assignee": true
+    },
+    {
+      "title": "Copilot is not replying",
+      "labels": [
+        "triage-needed"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Double click after curly brace to select the content",
+      "labels": [
+        "feature-request",
+        "editor-bracket-matching"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 15,
+      "has_assignee": true
+    },
+    {
+      "title": "Glob matching should be case insensitive",
+      "labels": [
+        "feature-request",
+        "search",
+        "file-glob"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 46,
+      "has_assignee": true
+    },
+    {
+      "title": "Bug: I have found one issue on your blog.",
+      "labels": [
+        "Status: Unconfirmed"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 2,
+      "has_assignee": false
+    },
+    {
+      "title": "eslint-plugin-react-hooks needs dependency on zod ^3.25.0 or later",
+      "labels": [],
+      "repo": "react",
+      "state": "open",
+      "comments": 4,
+      "has_assignee": false
+    },
+    {
+      "title": "Bug: ViewTransition can't be isolated",
+      "labels": [
+        "Status: Unconfirmed"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": false
+    },
+    {
+      "title": "React 19.1.1 slows down rendering (~5s) with DevTools open and Playwright headful tests",
+      "labels": [
+        "Status: Unconfirmed",
+        "Resolution: Stale"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 3,
+      "has_assignee": false
+    },
+    {
+      "title": "Bug: React 19 does not attach custom element event listeners during hydration",
+      "labels": [
+        "Status: Unconfirmed"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": false
+    },
+    {
+      "title": "RSC SSR performance",
+      "labels": [
+        "Status: Unconfirmed",
+        "Resolution: Stale"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 2,
+      "has_assignee": false
+    },
+    {
+      "title": "Reconsider providing a cleaner hook-based solution to derived state",
+      "labels": [
+        "Status: Unconfirmed"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 11,
+      "has_assignee": false
+    },
+    {
+      "title": "Bug: `eslint-plugin-react-hooks` hides all errors on multiple findings",
+      "labels": [
+        "Status: Unconfirmed"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 9,
+      "has_assignee": false
+    },
+    {
+      "title": "Bug: eslint-plugin-react-hooks not throwing \"Hooks may not be referenced as normal values\" error",
+      "labels": [
+        "Status: Unconfirmed"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 2,
+      "has_assignee": false
+    },
+    {
+      "title": "[React 19] allow opting out of automatic form reset when Form Actions are used",
+      "labels": [
+        "React 19"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 95,
+      "has_assignee": false
+    },
+    {
+      "title": "Illegal Constructor error if ViewTransition is not imported",
+      "labels": [
+        "Status: Unconfirmed",
+        "Resolution: Stale"
+      ],
+      "repo": "react",
+      "state": "closed",
+      "comments": 2,
+      "has_assignee": false
+    },
+    {
+      "title": "Bug: stylesheets that use precedence are significantly slower to render at scale",
+      "labels": [
+        "Status: Unconfirmed",
+        "Resolution: Stale"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 8,
+      "has_assignee": false
+    },
+    {
+      "title": "Minified function names in turbopack prod builds for server-side code",
+      "labels": [
+        "Turbopack"
+      ],
+      "repo": "next.js",
+      "state": "open",
+      "comments": 1,
+      "has_assignee": true
+    },
+    {
+      "title": "OG rendering SVG title element",
+      "labels": [],
+      "repo": "next.js",
+      "state": "open",
+      "comments": 2,
+      "has_assignee": false
+    },
+    {
+      "title": "Error: No package found with name '@next/bundle-analyzer-ui' in workspace",
+      "labels": [
+        "locked"
+      ],
+      "repo": "next.js",
+      "state": "closed",
+      "comments": 1,
+      "has_assignee": false
+    },
+    {
+      "title": "Docs:",
+      "labels": [
+        "locked"
+      ],
+      "repo": "next.js",
+      "state": "closed",
+      "comments": 1,
+      "has_assignee": false
+    },
+    {
+      "title": "Docs: demo how to build 1-page at a time to debug",
+      "labels": [
+        "locked",
+        "Improvement"
+      ],
+      "repo": "next.js",
+      "state": "closed",
+      "comments": 4,
+      "has_assignee": true
+    },
+    {
+      "title": "Not seeing not-found page on production deployment with dynamicParams = false",
+      "labels": [
+        "bug",
+        "stale"
+      ],
+      "repo": "next.js",
+      "state": "open",
+      "comments": 7,
+      "has_assignee": false
+    }
+  ],
+  "statistics": {
+    "total_issues_scraped": 38,
+    "avg_title_length": 58.4,
+    "with_labels": 0.89,
+    "with_assignees": 0.53,
+    "avg_comments": 6.2
+  }
+}

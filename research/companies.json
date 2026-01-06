@@ -1,0 +1,2621 @@
+[
+  {
+    "name": "Stripe",
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "description": "Economic infrastructure for the internet.",
+    "team_size": 7000,
+    "founded_year": "Summ",
+    "tags": [
+      "Banking as a Service",
+      "Fintech",
+      "SaaS"
+    ],
+    "website": "http://stripe.com"
+  },
+  {
+    "name": "Deel",
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "description": "The all-in-one HR and payroll platform for global teams",
+    "team_size": 5000,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "HR Tech",
+      "Payroll"
+    ],
+    "website": "https://www.deel.com/"
+  },
+  {
+    "name": "99minutos",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "The fastest shipping for online shopping ",
+    "team_size": 5000,
+    "founded_year": "Wint",
+    "tags": [
+      "Logistics"
+    ],
+    "website": "https://99minutos.com"
+  },
+  {
+    "name": "GrubMarket",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "AI-powered technology enabler and digital transformer of American…",
+    "team_size": 4548,
+    "founded_year": "Wint",
+    "tags": [
+      "E-commerce",
+      "Supply Chain",
+      "Food Tech",
+      "Agriculture"
+    ],
+    "website": "http://grubmarket.com"
+  },
+  {
+    "name": "Dropbox",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "Backup and share files in the cloud.",
+    "team_size": 4000,
+    "founded_year": "Summ",
+    "tags": [],
+    "website": "http://dropbox.com"
+  },
+  {
+    "name": "Flexport",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Platform for global logistics.",
+    "team_size": 3000,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "Logistics",
+      "Supply Chain"
+    ],
+    "website": "https://www.flexport.com/careers/jobs/"
+  },
+  {
+    "name": "Rippling",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "One place to run all your HR, IT, and Finance. Globally.",
+    "team_size": 2500,
+    "founded_year": "Wint",
+    "tags": [
+      "HR Tech"
+    ],
+    "website": "http://rippling.com/"
+  },
+  {
+    "name": "Gusto",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "Provides growing businesses with everything to take care of their team",
+    "team_size": 2400,
+    "founded_year": "Wint",
+    "tags": [
+      "B2B",
+      "Payroll",
+      "Health Insurance"
+    ],
+    "website": "https://gusto.com"
+  },
+  {
+    "name": "GitLab",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "A complete DevOps platform delivered as a single application.",
+    "team_size": 2000,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Open Source"
+    ],
+    "website": "http://gitlab.com/"
+  },
+  {
+    "name": "Optimizely",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "The first all-in-one operating system for marketing",
+    "team_size": 1500,
+    "founded_year": "Wint",
+    "tags": [
+      "Marketing"
+    ],
+    "website": "http://optimizely.com"
+  },
+  {
+    "name": "Meesho",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "description": "Democratizing internet commerce for everyone in India",
+    "team_size": 1450,
+    "founded_year": "Summ",
+    "tags": [
+      "E-commerce",
+      "Retail"
+    ],
+    "website": "http://www.meesho.com"
+  },
+  {
+    "name": "Fivetran",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "The leader in automated data movement",
+    "team_size": 1200,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Analytics",
+      "Data Engineering"
+    ],
+    "website": "http://fivetran.com"
+  },
+  {
+    "name": "Podium",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "description": "Get more leads. Make more money. ",
+    "team_size": 1000,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "website": "https://podium.com"
+  },
+  {
+    "name": "Athelas",
+    "industry": "Healthcare",
+    "subindustry": "Healthcare",
+    "description": "Extensible, Integrated Technology that Simplifies Health Systems",
+    "team_size": 1000,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Health Tech",
+      "Telehealth",
+      "Healthcare",
+      "AI"
+    ],
+    "website": "http://athelas.com"
+  },
+  {
+    "name": "Flock Safety",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "The first public safety operating system that eliminates crime.",
+    "team_size": 1000,
+    "founded_year": "Summ",
+    "tags": [
+      "Hardware",
+      "Machine Learning",
+      "SaaS"
+    ],
+    "website": "http://www.flocksafety.com"
+  },
+  {
+    "name": "PagerDuty",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Real-time visibility into critical apps and services all in one place.",
+    "team_size": 950,
+    "founded_year": "Summ",
+    "tags": [
+      "DevOps",
+      "Monitoring"
+    ],
+    "website": "http://pagerduty.com"
+  },
+  {
+    "name": "Faire",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "description": "The global online platform empowering independent retail.",
+    "team_size": 900,
+    "founded_year": "Wint",
+    "tags": [
+      "Marketplace",
+      "Retail"
+    ],
+    "website": "https://www.faire.com/"
+  },
+  {
+    "name": "Algolia",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "A developer-friendly and enterprise-grade search API.",
+    "team_size": 810,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "http://www.algolia.com"
+  },
+  {
+    "name": "Checkr",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "People infrastructure for the future of work",
+    "team_size": 800,
+    "founded_year": "Summ",
+    "tags": [
+      "Artificial Intelligence",
+      "Compliance",
+      "HR Tech",
+      "API",
+      "Enterprise Software"
+    ],
+    "website": "http://www.checkr.com"
+  },
+  {
+    "name": "Apollo.io",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "Apollo is the foundation of your entire go-to-market strategy.",
+    "team_size": 800,
+    "founded_year": "Wint",
+    "tags": [
+      "Sales",
+      "Marketing"
+    ],
+    "website": "https://www.apollo.io/"
+  },
+  {
+    "name": "Human Interest",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "The 401(k) for small and medium-sized businesses.",
+    "team_size": 765,
+    "founded_year": "Summ",
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Human Resources",
+      "HR Tech",
+      "Investing"
+    ],
+    "website": "http://humaninterest.com"
+  },
+  {
+    "name": "Amplitude",
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "description": "Digital Analytics Platform",
+    "team_size": 750,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Analytics",
+      "Marketing",
+      "Data Visualization"
+    ],
+    "website": "https://amplitude.com"
+  },
+  {
+    "name": "Benchling",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Unlocking the power of biotech with modern software for modern science",
+    "team_size": 750,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Biotech"
+    ],
+    "website": "http://benchling.com"
+  },
+  {
+    "name": "Superside",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "Creative-as-a-service",
+    "team_size": 750,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "Design Tools"
+    ],
+    "website": "http://www.superside.com"
+  },
+  {
+    "name": "Zapier",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "The easiest way to automate your work.",
+    "team_size": 700,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Automation"
+    ],
+    "website": "http://zapier.com"
+  },
+  {
+    "name": "Guesty",
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "description": "The management platform for the short term rental industry.",
+    "team_size": 700,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Travel",
+      "Proptech"
+    ],
+    "website": "http://www.guesty.com"
+  },
+  {
+    "name": "Vanta",
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "description": "Vanta—the proven leader in automated compliance helping startups…",
+    "team_size": 700,
+    "founded_year": "Wint",
+    "tags": [
+      "B2B",
+      "Compliance",
+      "Security"
+    ],
+    "website": "https://vanta.com"
+  },
+  {
+    "name": "Go1",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "A learning platform that enables you to train your staff or customers.",
+    "team_size": 650,
+    "founded_year": "Summ",
+    "tags": [
+      "eLearning"
+    ],
+    "website": "https://go1.com"
+  },
+  {
+    "name": "Webflow",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "Professional website design and publishing platform. ",
+    "team_size": 600,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Design",
+      "Marketing"
+    ],
+    "website": "https://webflow.com"
+  },
+  {
+    "name": "Weave",
+    "industry": "B2B",
+    "subindustry": "B2B -> Office Management",
+    "description": "Customer communication and payments platform.",
+    "team_size": 600,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS"
+    ],
+    "website": "http://getweave.com"
+  },
+  {
+    "name": "Helloverify",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "Helloverify is a background screening platform (Checkr for India).  ",
+    "team_size": 600,
+    "founded_year": "Wint",
+    "tags": [
+      "Artificial Intelligence"
+    ],
+    "website": "https://www.helloverify.com"
+  },
+  {
+    "name": "Shipper",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Southeast Asia’s e-commerce logistics and enablement platform",
+    "team_size": 600,
+    "founded_year": "Wint",
+    "tags": [
+      "Logistics",
+      "E-commerce"
+    ],
+    "website": "https://shipper.id"
+  },
+  {
+    "name": "Segment",
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "description": "Software and APIs to collect, clean, and control customer data.",
+    "team_size": 550,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "website": "http://segment.com"
+  },
+  {
+    "name": "Nowports",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "The core engine of supply chain in LATAM",
+    "team_size": 550,
+    "founded_year": "Wint",
+    "tags": [],
+    "website": "https://nowports.com/"
+  },
+  {
+    "name": "Lattice",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "Modern people management platform.",
+    "team_size": 540,
+    "founded_year": "Wint",
+    "tags": [
+      "HR Tech"
+    ],
+    "website": "https://lattice.com"
+  },
+  {
+    "name": "Tractian",
+    "industry": "Industrials",
+    "subindustry": "Industrials",
+    "description": "Fine tuning heavy machinery via AI",
+    "team_size": 530,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "IoT",
+      "B2B",
+      "AI"
+    ],
+    "website": "https://tractian.com"
+  },
+  {
+    "name": "Firebase",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Build and grow iOS, Android, and Web apps.",
+    "team_size": 500,
+    "founded_year": "Summ",
+    "tags": [],
+    "website": "http://firebase.com"
+  },
+  {
+    "name": "Zenefits",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "HR for small businesses: onboarding, payroll and benefits.",
+    "team_size": 500,
+    "founded_year": "Wint",
+    "tags": [
+      "HR Tech"
+    ],
+    "website": "http://zenefits.com"
+  },
+  {
+    "name": "Instawork",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "A flexible work app that connects businesses with hourly workers.",
+    "team_size": 500,
+    "founded_year": "Summ",
+    "tags": [
+      "Marketplace"
+    ],
+    "website": "http://instawork.com"
+  },
+  {
+    "name": "Scale AI",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Data-centric infrastructure to accelerate the development of AI ",
+    "team_size": 500,
+    "founded_year": "Summ",
+    "tags": [
+      "Artificial Intelligence",
+      "Machine Learning"
+    ],
+    "website": "http://scale.com"
+  },
+  {
+    "name": "Bird",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "The world’s largest omnichannel communications platform",
+    "team_size": 500,
+    "founded_year": "Summ",
+    "tags": [
+      "Messaging",
+      "API"
+    ],
+    "website": "http://bird.com"
+  },
+  {
+    "name": "Aspire",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "description": "All-in-one Finance OS for businesses",
+    "team_size": 500,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Payments",
+      "B2B",
+      "Neobank"
+    ],
+    "website": "https://aspireapp.com"
+  },
+  {
+    "name": "Leena AI",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "We at Leena AI build a virtual assistant that answers employee's…",
+    "team_size": 500,
+    "founded_year": "Summ",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "Chatbot",
+      "Enterprise Software",
+      "AI Assistant"
+    ],
+    "website": "https://www.leena.ai"
+  },
+  {
+    "name": "Zip",
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "description": "The future of B2B spend",
+    "team_size": 500,
+    "founded_year": "Summ",
+    "tags": [
+      "B2B",
+      "Procurement"
+    ],
+    "website": "https://ziphq.com/"
+  },
+  {
+    "name": "Kapital Bank",
+    "industry": "Fintech",
+    "subindustry": "Fintech",
+    "description": "Data driven neobank for SMBs in LATAM",
+    "team_size": 500,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Payments",
+      "B2B",
+      "Neobank"
+    ],
+    "website": "https://www.kapital.mx"
+  },
+  {
+    "name": "Mixpanel",
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "description": "Mixpanel is event analytics for builders that need answers.",
+    "team_size": 410,
+    "founded_year": "Summ",
+    "tags": [
+      "B2B",
+      "Analytics",
+      "Data Visualization",
+      "Cloud Computing",
+      "Databases"
+    ],
+    "website": "http://mixpanel.com"
+  },
+  {
+    "name": "Ironclad",
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "description": "Digital contracting platform for legal teams.  ",
+    "team_size": 400,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "LegalTech"
+    ],
+    "website": "http://ironcladapp.com"
+  },
+  {
+    "name": "MarketForce",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "description": "The SuperApp for neighbourhood merchants in Africa. ",
+    "team_size": 400,
+    "founded_year": "Summ",
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "B2B"
+    ],
+    "website": "https://marketforce.io"
+  },
+  {
+    "name": "Heap",
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "description": "Captures user interactions with no code to generate analytics.",
+    "team_size": 388,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "Analytics"
+    ],
+    "website": "https://heap.io/"
+  },
+  {
+    "name": "Front",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "Customer communications hub for building strong relationships",
+    "team_size": 385,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS"
+    ],
+    "website": "https://front.com"
+  },
+  {
+    "name": "Frubana Inc",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "The everything store for restaurants in LATAM.",
+    "team_size": 384,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "B2B",
+      "Logistics"
+    ],
+    "website": "https://www.frubana.com"
+  },
+  {
+    "name": "Odeko",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Our operations software makes it easier to run--and grow--your cafe",
+    "team_size": 371,
+    "founded_year": "Summ",
+    "tags": [
+      "B2B",
+      "Logistics"
+    ],
+    "website": "http://www.odeko.com"
+  },
+  {
+    "name": "Panorama Education",
+    "industry": "Education",
+    "subindustry": "Education",
+    "description": "Improving education for every student.",
+    "team_size": 350,
+    "founded_year": "Summ",
+    "tags": [
+      "Education",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://www.panoramaed.com/"
+  },
+  {
+    "name": "Unbabel",
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "description": "AI-powered Language Operations platform",
+    "team_size": 350,
+    "founded_year": "Wint",
+    "tags": [],
+    "website": "http://unbabel.com"
+  },
+  {
+    "name": "Magic",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Extremely talented assistants for busy people",
+    "team_size": 350,
+    "founded_year": "Wint",
+    "tags": [
+      "B2B",
+      "AI Assistant"
+    ],
+    "website": "https://getmagic.com/"
+  },
+  {
+    "name": "Simetrik",
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "description": "No code enterprise SaaS for financial control automation.",
+    "team_size": 350,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "website": "https://simetrik.com"
+  },
+  {
+    "name": "SkydropX",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Logistic Management System for E-commerce & Retail in Mexico. ",
+    "team_size": 320,
+    "founded_year": "Summ",
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "Logistics"
+    ],
+    "website": "http://skydropx.com"
+  },
+  {
+    "name": "Submittable",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "The best way to launch, manage and measure social impact programs",
+    "team_size": 302,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://www.submittable.com/"
+  },
+  {
+    "name": "HackerRank",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "Change the world to value skills over pedigree",
+    "team_size": 300,
+    "founded_year": "Summ",
+    "tags": [
+      "Developer Tools",
+      "Recruiting"
+    ],
+    "website": "http://hackerrank.com"
+  },
+  {
+    "name": "Heroku",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Enabling developers to build and run applications in the cloud.",
+    "team_size": 300,
+    "founded_year": "Wint",
+    "tags": [],
+    "website": "http://heroku.com"
+  },
+  {
+    "name": "Sendbird",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "The AI agent that doesn’t just support, it delights.",
+    "team_size": 300,
+    "founded_year": "Wint",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "B2B",
+      "Enterprise",
+      "AI"
+    ],
+    "website": "https://sendbird.com"
+  },
+  {
+    "name": "People.ai",
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "description": "Harnesses business activity to unlock growth.",
+    "team_size": 300,
+    "founded_year": "Summ",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Enterprise"
+    ],
+    "website": "https://people.ai"
+  },
+  {
+    "name": "Retool",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "Build internal tools fast.",
+    "team_size": 300,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools"
+    ],
+    "website": "https://retool.com"
+  },
+  {
+    "name": "UBITS",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "Learning Hub for companies in Latam",
+    "team_size": 300,
+    "founded_year": "Summ",
+    "tags": [
+      "Education",
+      "SaaS",
+      "eLearning",
+      "B2B"
+    ],
+    "website": "http://ubits.com"
+  },
+  {
+    "name": "Nabis",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Nabis is the largest licensed cannabis wholesale platform.",
+    "team_size": 300,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "Marketplace",
+      "B2B",
+      "Cannabis",
+      "Analytics"
+    ],
+    "website": "https://www.nabis.com/"
+  },
+  {
+    "name": "Howdy.com",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "We help US tech companies hire and manage software engineers in LATAM",
+    "team_size": 300,
+    "founded_year": "Wint",
+    "tags": [
+      "B2B",
+      "Recruiting"
+    ],
+    "website": "https://www.howdy.com/"
+  },
+  {
+    "name": "ShipBlu",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Amazon Level Logistics for eCommerce Companies in MENA.",
+    "team_size": 300,
+    "founded_year": "Summ",
+    "tags": [
+      "Delivery",
+      "AI"
+    ],
+    "website": "http://www.shipblu.com"
+  },
+  {
+    "name": "Snapdocs",
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction -> Housing and Real Estate",
+    "description": "digital mortgage closing",
+    "team_size": 285,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Housing",
+      "Enterprise",
+      "Networks"
+    ],
+    "website": "http://snapdocs.com"
+  },
+  {
+    "name": "CaptivateIQ",
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "description": "Agile commission software to design, deploy & adapt commission plans.",
+    "team_size": 280,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS"
+    ],
+    "website": "https://www.captivateiq.com"
+  },
+  {
+    "name": "Humand",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "All-in-one app for internal communication and HR",
+    "team_size": 270,
+    "founded_year": "Wint",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "SaaS",
+      "B2B",
+      "Productivity"
+    ],
+    "website": "https://humand.co"
+  },
+  {
+    "name": "Cyble",
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "description": "Cyble - World’s First Intelligence-Driven, AI-Native Security…",
+    "team_size": 260,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "Security",
+      "AI"
+    ],
+    "website": "https://cyble.com/"
+  },
+  {
+    "name": "Yummy",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "description": "The everything app for LATAM",
+    "team_size": 260,
+    "founded_year": "Summ",
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "Delivery",
+      "Ridesharing"
+    ],
+    "website": "https://www.yummysuperapp.com/"
+  },
+  {
+    "name": "Rescale",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "High Performance Computing Built for the Cloud",
+    "team_size": 250,
+    "founded_year": "Wint",
+    "tags": [
+      "Cloud Computing"
+    ],
+    "website": "https://rescale.com"
+  },
+  {
+    "name": "inDinero",
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "description": "Financial dashboard for businesses.",
+    "team_size": 250,
+    "founded_year": "Summ",
+    "tags": [
+      "FinOps",
+      "Analytics"
+    ],
+    "website": "http://indinero.com"
+  },
+  {
+    "name": "Povio",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Engineering and Design that Fuels Startup Success",
+    "team_size": 250,
+    "founded_year": "Wint",
+    "tags": [
+      "Marketplace",
+      "B2B"
+    ],
+    "website": "http://povio.com"
+  },
+  {
+    "name": "Luciq (formerly Instabug)",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Agentic Observability Platform for Mobile",
+    "team_size": 250,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://luciq.ai"
+  },
+  {
+    "name": "TRM Labs",
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "description": "TRM is building a safer financial system for billions of people.",
+    "team_size": 250,
+    "founded_year": "Summ",
+    "tags": [
+      "Fintech",
+      "Machine Learning",
+      "Crypto / Web3",
+      "Data Engineering"
+    ],
+    "website": "https://trmlabs.com/"
+  },
+  {
+    "name": "BukuWarung",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Payments",
+    "description": "Accounting, Payments & Credit app for 60M micro-businesses in…",
+    "team_size": 250,
+    "founded_year": "Summ",
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "website": "http://bukuwarung.com/app"
+  },
+  {
+    "name": "Vendease",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Where restaurants in Africa buy food supplies",
+    "team_size": 250,
+    "founded_year": "Wint",
+    "tags": [
+      "Supply Chain",
+      "Food & Beverage"
+    ],
+    "website": "https://vendease.com/"
+  },
+  {
+    "name": "Bitrise",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Hosted Continuous Integration and Delivery for mobile apps",
+    "team_size": 243,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://bitrise.io"
+  },
+  {
+    "name": "Snappr",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Snappr is the one-stop-shop for visual content creation",
+    "team_size": 240,
+    "founded_year": "Wint",
+    "tags": [
+      "Marketplace",
+      "Workflow Automation"
+    ],
+    "website": "https://www.snappr.com"
+  },
+  {
+    "name": "Observe.AI",
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "description": "Contact center AI platform.",
+    "team_size": 240,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "Customer Service",
+      "AI"
+    ],
+    "website": "https://observe.ai"
+  },
+  {
+    "name": "Qventus",
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "description": "We automate operations for hospitals and health systems",
+    "team_size": 230,
+    "founded_year": "Wint",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Digital Health",
+      "Healthcare"
+    ],
+    "website": "http://qventus.com"
+  },
+  {
+    "name": "Lever",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "Talent Acquisition Suite that combines ATS + Talent CRM",
+    "team_size": 225,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "Talent Acquisition"
+    ],
+    "website": "https://www.lever.co/"
+  },
+  {
+    "name": "Advantage Club",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "Global platform for employee engagement with rewards&flexible benefits",
+    "team_size": 220,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "B2B",
+      "HR Tech"
+    ],
+    "website": "https://www.advantageclub.co"
+  },
+  {
+    "name": "Clever",
+    "industry": "Education",
+    "subindustry": "Education",
+    "description": "The platform that powers technology in the classroom.",
+    "team_size": 210,
+    "founded_year": "Summ",
+    "tags": [
+      "Education",
+      "SaaS"
+    ],
+    "website": "https://clever.com"
+  },
+  {
+    "name": "InfluxData",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "The platform for building and operating time series applications.",
+    "team_size": 210,
+    "founded_year": "Wint",
+    "tags": [
+      "Analytics",
+      "Open Source",
+      "Time Series",
+      "Databases"
+    ],
+    "website": "https://influxdata.com"
+  },
+  {
+    "name": "Permutive",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "Rebuilding data in advertising to protect privacy",
+    "team_size": 205,
+    "founded_year": "Summ",
+    "tags": [
+      "Privacy",
+      "Advertising"
+    ],
+    "website": "https://permutive.com"
+  },
+  {
+    "name": "BioRender",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "'Figma/Canva for scientists’",
+    "team_size": 205,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "Collaboration",
+      "Design Tools",
+      "Enterprise Software"
+    ],
+    "website": "https://www.biorender.com"
+  },
+  {
+    "name": "Kobo360",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Africa's leading supply chain technology platform. ",
+    "team_size": 204,
+    "founded_year": "Summ",
+    "tags": [
+      "Logistics"
+    ],
+    "website": "http://www.kobo360.com"
+  },
+  {
+    "name": "Authy",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Authy is a Two-Factor Authentication platform for developers",
+    "team_size": 201,
+    "founded_year": "Wint",
+    "tags": [
+      "Security"
+    ],
+    "website": "http://authy.com"
+  },
+  {
+    "name": "Vidyard",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "Video for business.",
+    "team_size": 201,
+    "founded_year": "Summ",
+    "tags": [],
+    "website": "http://vidyard.com"
+  },
+  {
+    "name": "Fivestars",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "description": "Customer loyalty and payments platform for small businesses.",
+    "team_size": 201,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "Marketplace"
+    ],
+    "website": "http://fivestars.com"
+  },
+  {
+    "name": "Docker",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Software development platform.",
+    "team_size": 201,
+    "founded_year": "Summ",
+    "tags": [
+      "Open Source",
+      "DevOps",
+      "Enterprise Software"
+    ],
+    "website": "http://docker.com"
+  },
+  {
+    "name": "Weebly",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "Build a free website that grows with your business.",
+    "team_size": 201,
+    "founded_year": "Wint",
+    "tags": [],
+    "website": "http://weebly.com"
+  },
+  {
+    "name": "garten",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "Creating workplace wellbeing.",
+    "team_size": 201,
+    "founded_year": "Summ",
+    "tags": [
+      "Artificial Intelligence",
+      "IoT"
+    ],
+    "website": "https://garten.co/"
+  },
+  {
+    "name": "Apollo",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Apollo helps engineering teams accelerate delivery",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "GraphQL"
+    ],
+    "website": "http://apollographql.com/"
+  },
+  {
+    "name": "Presto",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "description": "Digital meets physical for big chain restaurants",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "Food Service Robots & Machines",
+      "Restaurant Tech"
+    ],
+    "website": "http://presto.com"
+  },
+  {
+    "name": "Teleport",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "The easiest, most secure way to access all your infrastructure",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "Next-gen Network Security"
+    ],
+    "website": "https://goteleport.com"
+  },
+  {
+    "name": "PartnerStack",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "PartnerStack is a full stack solution for partnerships.",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://partnerstack.com"
+  },
+  {
+    "name": "Fountain",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "High volume hiring made simple",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "AIOps",
+      "Marketplace",
+      "SaaS",
+      "HR Tech"
+    ],
+    "website": "http://fountain.com"
+  },
+  {
+    "name": "GetAccept",
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "description": "Close deals faster. Digitally.",
+    "team_size": 200,
+    "founded_year": "Wint",
+    "tags": [
+      "Documents",
+      "SaaS",
+      "Productivity",
+      "Sales"
+    ],
+    "website": "https://www.getaccept.com"
+  },
+  {
+    "name": "Salt Security",
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "description": "Protects organizations from getting breached through their APIs.",
+    "team_size": 200,
+    "founded_year": "Wint",
+    "tags": [
+      "Cybersecurity"
+    ],
+    "website": "https://salt.security/"
+  },
+  {
+    "name": "HiOperator",
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "description": "Customer support as a service. ",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "Customer Service"
+    ],
+    "website": "http://www.hioperator.com"
+  },
+  {
+    "name": "Gem",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "Talent engagement platform",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Recruiting"
+    ],
+    "website": "https://www.gem.com/"
+  },
+  {
+    "name": "Hightouch",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "The leading Composable CDP and AI Decisioning platform",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "Marketing",
+      "Enterprise Software",
+      "AI"
+    ],
+    "website": "https://hightouch.com/"
+  },
+  {
+    "name": "Spenmo",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "description": "A spend management software that provides businesses visibility,…",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "website": "https://summitglobal.com/"
+  },
+  {
+    "name": "MarqVision",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "IP operating software for brands and content companies",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "Artificial Intelligence",
+      "SaaS",
+      "Computer Vision",
+      "B2B",
+      "LegalTech"
+    ],
+    "website": "https://www.marqvision.com/"
+  },
+  {
+    "name": "Onebrief",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Onebrief makes military headquarters run seamlessly",
+    "team_size": 200,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "GovTech"
+    ],
+    "website": "https://onebrief.com"
+  },
+  {
+    "name": "Jasper.ai",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Jasper is a leader in creating content using Artificial Intelligence",
+    "team_size": 195,
+    "founded_year": "Wint",
+    "tags": [
+      "Artificial Intelligence",
+      "Generative AI",
+      "AI",
+      "Conversational AI"
+    ],
+    "website": "https://jasper.ai"
+  },
+  {
+    "name": "Ontop",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Simplifying hiring and payments for the global workforce",
+    "team_size": 192,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "B2B",
+      "HR Tech"
+    ],
+    "website": "https://www.getontop.com/"
+  },
+  {
+    "name": "Justo",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Helps restaurants take online orders directly from customers",
+    "team_size": 190,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Delivery",
+      "E-commerce"
+    ],
+    "website": "https://www.getjusto.com"
+  },
+  {
+    "name": "Atrium",
+    "industry": "B2B",
+    "subindustry": "B2B -> Legal",
+    "description": "Modern law firm for startups powered by proprietary technology",
+    "team_size": 180,
+    "founded_year": "Wint",
+    "tags": [
+      "LegalTech"
+    ],
+    "website": "http://www.atrium.co"
+  },
+  {
+    "name": "Postscript",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "The SMS revenue platform for e-commerce merchants",
+    "team_size": 180,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "E-commerce"
+    ],
+    "website": "https://postscript.io"
+  },
+  {
+    "name": "Prolific",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Making diverse, high-quality data easily available to anyone, anywhere",
+    "team_size": 180,
+    "founded_year": "Summ",
+    "tags": [
+      "AIOps",
+      "Marketplace"
+    ],
+    "website": "https://www.prolific.com"
+  },
+  {
+    "name": "Rider",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Modern parcel delivery for online sellers in Pakistan. ",
+    "team_size": 180,
+    "founded_year": "Wint",
+    "tags": [
+      "B2B",
+      "Logistics",
+      "E-commerce"
+    ],
+    "website": "http://withrider.com"
+  },
+  {
+    "name": "ElectroNeek",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Robotic Process Automation and Document Processing Platform",
+    "team_size": 175,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "Robotic Process Automation",
+      "B2B"
+    ],
+    "website": "https://electroneek.com"
+  },
+  {
+    "name": "Mezmo",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Observability platform to control all of your log data",
+    "team_size": 172,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "DevSecOps",
+      "SaaS",
+      "Kubernetes",
+      "Data Engineering"
+    ],
+    "website": "https://www.mezmo.com/"
+  },
+  {
+    "name": "Focal Systems",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "description": "Building the Operating System for B&M Retail using Deep Learning",
+    "team_size": 170,
+    "founded_year": "Wint",
+    "tags": [
+      "Deep Learning",
+      "Grocery",
+      "Computer Vision"
+    ],
+    "website": "http://www.focal.systems"
+  },
+  {
+    "name": "Bulk MRO Industrial Supply",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Full Stack Fintech and Supply Chain Platform for Global Trade",
+    "team_size": 170,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "B2B"
+    ],
+    "website": "http://www.bulkmro.com"
+  },
+  {
+    "name": "Pave",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "Plan, communicate, and benchmark your compensation in real-time.",
+    "team_size": 170,
+    "founded_year": "Summ",
+    "tags": [
+      "Fintech",
+      "HR Tech"
+    ],
+    "website": "https://pave.com"
+  },
+  {
+    "name": "Remi",
+    "industry": "Real Estate and Construction",
+    "subindustry": "Real Estate and Construction",
+    "description": "Simplifying roofing for homeowners, roofers and enterprises.",
+    "team_size": 170,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "Solar Power",
+      "Construction",
+      "Proptech",
+      "Climate"
+    ],
+    "website": "https://www.remihq.com"
+  },
+  {
+    "name": "Rose Rocket",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Rose Rocket is ERP software for trucking companies.",
+    "team_size": 165,
+    "founded_year": "Summ",
+    "tags": [
+      "Logistics",
+      "Enterprise Software"
+    ],
+    "website": "http://roserocket.com"
+  },
+  {
+    "name": "Routable",
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "description": "Simplifying payouts at scale",
+    "team_size": 160,
+    "founded_year": "Summ",
+    "tags": [
+      "Fintech",
+      "Payments"
+    ],
+    "website": "https://routable.com"
+  },
+  {
+    "name": "Modern Treasury",
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "description": "Payment operations tools for money movement.",
+    "team_size": 160,
+    "founded_year": "Summ",
+    "tags": [
+      "Fintech",
+      "API"
+    ],
+    "website": "http://www.moderntreasury.com/"
+  },
+  {
+    "name": "Axoni",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "description": "Axoni is building the next generation of capital markets technology",
+    "team_size": 155,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "website": "https://axoni.com"
+  },
+  {
+    "name": "clicOH",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Amazon-like logistics for e-commerce companies in Latam",
+    "team_size": 155,
+    "founded_year": "Wint",
+    "tags": [
+      "Warehouse Management Tech",
+      "B2B",
+      "Logistics"
+    ],
+    "website": "http://clicoh.com/"
+  },
+  {
+    "name": "OneSignal",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "Engage customers through personalized omni-channel messaging",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Messaging",
+      "Marketing"
+    ],
+    "website": "https://onesignal.com"
+  },
+  {
+    "name": "SingleStore",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "The cloud-native, operational database built for speed and scale.",
+    "team_size": 150,
+    "founded_year": "Wint",
+    "tags": [],
+    "website": "https://www.singlestore.com"
+  },
+  {
+    "name": "CoreOS",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Open source tools of modern distributed systems.",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "Open Source",
+      "DevOps"
+    ],
+    "website": "http://coreos.com"
+  },
+  {
+    "name": "Lob",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "Lob is the only automation platform that transforms direct mail into…",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "Automation"
+    ],
+    "website": "http://lob.com"
+  },
+  {
+    "name": "UpKeep",
+    "industry": "B2B",
+    "subindustry": "B2B -> Office Management",
+    "description": "Mobile-first software for maintenance teams.",
+    "team_size": 150,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "IoT",
+      "B2B"
+    ],
+    "website": "https://www.upkeep.com/"
+  },
+  {
+    "name": "Standard AI",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "description": "AI-powered checkout for retail.",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "Retail Tech",
+      "Retail",
+      "AI"
+    ],
+    "website": "https://standard.ai"
+  },
+  {
+    "name": "Nuvocargo",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Radically simplifying cross-border logistics between USA & Mexico",
+    "team_size": 150,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "Logistics",
+      "Supply Chain",
+      "Latin America"
+    ],
+    "website": "http://www.nuvocargo.com"
+  },
+  {
+    "name": "Canary Technologies",
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "description": "Modernizing the hospitality tech stack. ",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS"
+    ],
+    "website": "https://www.canarytechnologies.com"
+  },
+  {
+    "name": "Alpaca",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "description": "API-first stock and crypto brokerage platform",
+    "team_size": 150,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "Fintech",
+      "API",
+      "Investing",
+      "Infrastructure"
+    ],
+    "website": "https://alpaca.markets/"
+  },
+  {
+    "name": "CoLab",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Human and AI design review for hardware",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "Hardware",
+      "SaaS",
+      "Collaboration"
+    ],
+    "website": "http://colabsoftware.com"
+  },
+  {
+    "name": "InEvent",
+    "industry": "B2B",
+    "subindustry": "B2B -> Marketing",
+    "description": "In-Person, Hybrid and Virtual Event Management Software",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "GovTech",
+      "B2B"
+    ],
+    "website": "https://inevent.com"
+  },
+  {
+    "name": "PostHog",
+    "industry": "B2B",
+    "subindustry": "B2B -> Analytics",
+    "description": "The single platform to analyze, test, observe, and deploy new features",
+    "team_size": 150,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "B2B",
+      "Open Source"
+    ],
+    "website": "https://www.posthog.com"
+  },
+  {
+    "name": "inFeedo AI",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "AI to engage employees, predict attrition and automate HR/IT support",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "Generative AI",
+      "SaaS",
+      "HR Tech",
+      "Enterprise Software",
+      "AI"
+    ],
+    "website": "https://infeedo.ai"
+  },
+  {
+    "name": "Taktile",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Empowering decision makers to make smarter and safer decisions at…",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "Machine Learning",
+      "Enterprise Software"
+    ],
+    "website": "http://www.taktile.com"
+  },
+  {
+    "name": "Estoca",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "The Logistics Operating System for E-commerce in LatAm",
+    "team_size": 150,
+    "founded_year": "Wint",
+    "tags": [
+      "B2B",
+      "Logistics",
+      "E-commerce"
+    ],
+    "website": "https://www.estoca.com.br/"
+  },
+  {
+    "name": "Awesomic",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Get matched with top 1% of talents in 24h",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "Marketplace",
+      "B2B",
+      "Recruiting",
+      "Design",
+      "Web Development"
+    ],
+    "website": "https://www.awesomic.com/?ref=yc"
+  },
+  {
+    "name": "Pide Directo",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "One-stop-shop for restaurants to operate and grow their business. ",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "Autonomous Delivery",
+      "SaaS",
+      "E-commerce",
+      "Enterprise Software"
+    ],
+    "website": "http://pidedirecto.mx"
+  },
+  {
+    "name": "Toku",
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "description": "Account Receivables Platform for Latin American Enterprises",
+    "team_size": 150,
+    "founded_year": "Summ",
+    "tags": [
+      "FinOps",
+      "Fintech",
+      "SaaS",
+      "Payments",
+      "Subscriptions"
+    ],
+    "website": "https://trytoku.com/"
+  },
+  {
+    "name": "Bitmovin",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Powers OTT online video providers with video developer tools.",
+    "team_size": 145,
+    "founded_year": "Summ",
+    "tags": [
+      "Developer Tools",
+      "Video"
+    ],
+    "website": "http://bitmovin.com"
+  },
+  {
+    "name": "Humi",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "Payroll, HR, and Health Benefits for Canada's SMB's",
+    "team_size": 141,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "Payroll"
+    ],
+    "website": "http://www.humi.ca"
+  },
+  {
+    "name": "Plivo",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Voice AI Agents for customer engagement, including WhatsApp, SMS &…",
+    "team_size": 140,
+    "founded_year": "Summ",
+    "tags": [
+      "SMS",
+      "AI",
+      "AI Assistant"
+    ],
+    "website": "https://plivo.com"
+  },
+  {
+    "name": "Zeplin",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Deliver on the Promise of Design",
+    "team_size": 140,
+    "founded_year": "Summ",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Design Tools"
+    ],
+    "website": "https://zeplin.io"
+  },
+  {
+    "name": "lapzo",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "Lattice for Latam with personalized learning and development",
+    "team_size": 135,
+    "founded_year": "Summ",
+    "tags": [
+      "Education",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://www.lapzo.com"
+  },
+  {
+    "name": "Tennr",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Fast, Transparent Patient Experiences",
+    "team_size": 135,
+    "founded_year": "Wint",
+    "tags": [
+      "Healthcare"
+    ],
+    "website": "https://www.tennr.com"
+  },
+  {
+    "name": "Protocol Labs",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Protocol Labs makes internet protocols: IPFS, Filecoin, and more.",
+    "team_size": 130,
+    "founded_year": "Summ",
+    "tags": [
+      "Crypto / Web3",
+      "Open Source"
+    ],
+    "website": "https://protocol.ai/"
+  },
+  {
+    "name": "NimbleRx",
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Consumer Health and Wellness",
+    "description": "On-demand prescription delivery.",
+    "team_size": 130,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS"
+    ],
+    "website": "http://nimblerx.com"
+  },
+  {
+    "name": "Torch",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "",
+    "team_size": 130,
+    "founded_year": "Wint",
+    "tags": [
+      "Marketplace",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://torch.io/"
+  },
+  {
+    "name": "Fieldguide",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "Vertical AI for Audit & Advisory Firms",
+    "team_size": 130,
+    "founded_year": "Summ",
+    "tags": [
+      "Artificial Intelligence",
+      "B2B",
+      "Workflow Automation",
+      "Productivity"
+    ],
+    "website": "http://fieldguide.io"
+  },
+  {
+    "name": "Klarity",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "Klarity: Your Always-On AI Analyst, Advisor & Coach",
+    "team_size": 128,
+    "founded_year": "Summ",
+    "tags": [
+      "Machine Learning",
+      "SaaS",
+      "AI"
+    ],
+    "website": "http://klarity.ai"
+  },
+  {
+    "name": "Dealls – Jobs & Mentoring",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "Indonesia's #1 ATS & Job Portal to match top talents & companies",
+    "team_size": 127,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "Recruiting",
+      "HR Tech"
+    ],
+    "website": "https://dealls.com"
+  },
+  {
+    "name": "Daily",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "Conversational Voice and Multimodal AI built with Open Source ",
+    "team_size": 126,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "AI",
+      "AI Assistant"
+    ],
+    "website": "https://daily.co"
+  },
+  {
+    "name": "Quo (fka OpenPhone)",
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "description": "The all-in-one business phone for teams.",
+    "team_size": 125,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS"
+    ],
+    "website": "https://www.quo.com"
+  },
+  {
+    "name": "Abacum",
+    "industry": "B2B",
+    "subindustry": "B2B -> Finance and Accounting",
+    "description": "The AI-native FP&A platform that helps Finance teams drive business…",
+    "team_size": 125,
+    "founded_year": "Wint",
+    "tags": [
+      "FinOps",
+      "SaaS"
+    ],
+    "website": "https://www.abacum.ai/"
+  },
+  {
+    "name": "Close",
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "description": "CRM and sales automation tools for startups and SMBs",
+    "team_size": 120,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://close.com"
+  },
+  {
+    "name": "Mattermost",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "Secure Collaboration for Technical Teams",
+    "team_size": 120,
+    "founded_year": "Summ",
+    "tags": [
+      "DevSecOps",
+      "Collaboration",
+      "Security",
+      "Open Source"
+    ],
+    "website": "http://mattermost.com"
+  },
+  {
+    "name": "GiveCampus",
+    "industry": "Education",
+    "subindustry": "Education",
+    "description": "The fundraising platform for schools.",
+    "team_size": 120,
+    "founded_year": "Summ",
+    "tags": [
+      "Education",
+      "Fintech",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "http://go.givecampus.com"
+  },
+  {
+    "name": "Sqreen",
+    "industry": "B2B",
+    "subindustry": "B2B -> Security",
+    "description": "Sqreen is the application security platform for the modern enterprise",
+    "team_size": 120,
+    "founded_year": "Wint",
+    "tags": [
+      "DevSecOps",
+      "B2B",
+      "Security"
+    ],
+    "website": "https://www.sqreen.com/"
+  },
+  {
+    "name": "Supabase",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Build in a weekend. Scale to millions.",
+    "team_size": 120,
+    "founded_year": "Summ",
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "Big Data",
+      "Data Engineering",
+      "Databases"
+    ],
+    "website": "https://supabase.com"
+  },
+  {
+    "name": "Zuddl",
+    "industry": "B2B",
+    "subindustry": "B2B",
+    "description": "Zuddl is a modular platform for events and webinars that helps event…",
+    "team_size": 120,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "B2B"
+    ],
+    "website": "http://www.zuddl.com"
+  },
+  {
+    "name": "Deepgram",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Building foundational AI for speech transcription and understanding.",
+    "team_size": 115,
+    "founded_year": "Wint",
+    "tags": [
+      "AI-Enhanced Learning",
+      "API",
+      "AI"
+    ],
+    "website": "https://www.deepgram.com"
+  },
+  {
+    "name": "Quicknode",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Tools & infra to build and scale high-quality blockchain applications.",
+    "team_size": 115,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "Crypto / Web3",
+      "API"
+    ],
+    "website": "https://www.quicknode.com"
+  },
+  {
+    "name": "GitPrime",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Visibility and analytics for software development leaders.",
+    "team_size": 110,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://www.gitprime.com"
+  },
+  {
+    "name": "Convex",
+    "industry": "B2B",
+    "subindustry": "B2B -> Sales",
+    "description": "Software for the commercial services industry. ",
+    "team_size": 110,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "Proptech",
+      "Enterprise"
+    ],
+    "website": "https://www.convex.com"
+  },
+  {
+    "name": "Ashby",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "All-in-one recruiting platform that empowers hiring excellence in…",
+    "team_size": 110,
+    "founded_year": "Wint",
+    "tags": [
+      "Human Resources",
+      "B2B",
+      "Recruiting"
+    ],
+    "website": "https://www.ashbyhq.com"
+  },
+  {
+    "name": "Eden Farm",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Delivering fruits and vegetables to multi-segment restaurants and…",
+    "team_size": 110,
+    "founded_year": "Summ",
+    "tags": [
+      "Grocery",
+      "Supply Chain"
+    ],
+    "website": "https://edenfarm.id/"
+  },
+  {
+    "name": "WorkRamp",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "The All-in-One Learning Platform ",
+    "team_size": 106,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Customer Success",
+      "Sales Enablement"
+    ],
+    "website": "https://www.workramp.com"
+  },
+  {
+    "name": "Localyze",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "Global mobility platform for companies and employees",
+    "team_size": 105,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Human Resources",
+      "Immigration"
+    ],
+    "website": "https://www.localyze.com"
+  },
+  {
+    "name": "NanoNets",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Automatic Data Extraction",
+    "team_size": 102,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "AI"
+    ],
+    "website": "https://nanonets.com"
+  },
+  {
+    "name": "Quartzy",
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "description": "Marketplace for life science supplies.",
+    "team_size": 100,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "B2B",
+      "E-commerce"
+    ],
+    "website": "https://www.quartzy.com"
+  },
+  {
+    "name": "HelloSign",
+    "industry": "B2B",
+    "subindustry": "B2B -> Productivity",
+    "description": "eSignature software for small and mid-market businesses.",
+    "team_size": 100,
+    "founded_year": "Wint",
+    "tags": [
+      "SaaS",
+      "Enterprise Software"
+    ],
+    "website": "https://www.hellosign.com"
+  },
+  {
+    "name": "Bluecrew",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "Bluecrew is a web based staffing agency.",
+    "team_size": 100,
+    "founded_year": "Summ",
+    "tags": [
+      "Recruiting"
+    ],
+    "website": "http://bluecrewjobs.com"
+  },
+  {
+    "name": "TetraScience",
+    "industry": "Healthcare",
+    "subindustry": "Healthcare -> Healthcare IT",
+    "description": "The only R&D data cloud for life sciences",
+    "team_size": 100,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Data Engineering"
+    ],
+    "website": "https://www.tetrascience.com"
+  },
+  {
+    "name": "Joy",
+    "industry": "Consumer",
+    "subindustry": "Consumer -> Home and Personal",
+    "description": "The platform for all your life events.",
+    "team_size": 100,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Consumer",
+      "Media",
+      "E-commerce",
+      "Retail"
+    ],
+    "website": "http://withjoy.com"
+  },
+  {
+    "name": "Runa",
+    "industry": "B2B",
+    "subindustry": "B2B -> Human Resources",
+    "description": "Automating payroll for Latin America.",
+    "team_size": 100,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "SaaS",
+      "Payroll"
+    ],
+    "website": "http://runahr.com/"
+  },
+  {
+    "name": "Coursedog",
+    "industry": "B2B",
+    "subindustry": "B2B -> Operations",
+    "description": "Higher Ed's Best Friend - integrated academic operations software.",
+    "team_size": 100,
+    "founded_year": "Wint",
+    "tags": [
+      "Education",
+      "SaaS"
+    ],
+    "website": "http://coursedog.com"
+  },
+  {
+    "name": "Freshpaint",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Customer data collection, safeguarding, & activation for healthcare",
+    "team_size": 100,
+    "founded_year": "Summ",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B"
+    ],
+    "website": "https://freshpaint.io"
+  },
+  {
+    "name": "Cortex",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Cortex is the Internal Developer Portal eliminating “developer tax”…",
+    "team_size": 100,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "SaaS",
+      "B2B",
+      "Productivity"
+    ],
+    "website": "https://cortex.io/"
+  },
+  {
+    "name": "Belvo",
+    "industry": "Fintech",
+    "subindustry": "Fintech -> Banking and Exchange",
+    "description": "Open Finance API platform for Latam.",
+    "team_size": 100,
+    "founded_year": "Wint",
+    "tags": [
+      "Fintech",
+      "SaaS"
+    ],
+    "website": "https://belvo.com"
+  },
+  {
+    "name": "HENRY",
+    "industry": "B2B",
+    "subindustry": "B2B -> Recruiting and Talent",
+    "description": "We train AI engineers and connect them with companies.",
+    "team_size": 100,
+    "founded_year": "Summ",
+    "tags": [
+      "AI-Enhanced Learning",
+      "B2B",
+      "Recruiting",
+      "Latin America",
+      "Talent Acquisition"
+    ],
+    "website": "https://www.soyhenry.com/hiring-en"
+  },
+  {
+    "name": "Encord",
+    "industry": "B2B",
+    "subindustry": "B2B -> Infrastructure",
+    "description": "Building the data backbone for the (artificial) intelligence…",
+    "team_size": 100,
+    "founded_year": "Wint",
+    "tags": [
+      "Artificial Intelligence",
+      "Developer Tools",
+      "Machine Learning",
+      "Computer Vision",
+      "AI"
+    ],
+    "website": "https://encord.com"
+  },
+  {
+    "name": "Alokai",
+    "industry": "B2B",
+    "subindustry": "B2B -> Engineering, Product and Design",
+    "description": "Frontend Platform for eCommerce",
+    "team_size": 100,
+    "founded_year": "Wint",
+    "tags": [
+      "Developer Tools",
+      "Open Source",
+      "E-commerce"
+    ],
+    "website": "https://www.alokai.com"
+  },
+  {
+    "name": "Fleek",
+    "industry": "B2B",
+    "subindustry": "B2B -> Retail",
+    "description": "A B2B marketplace for wholesale second hand fashion",
+    "team_size": 100,
+    "founded_year": "Wint",
+    "tags": [
+      "Marketplace",
+      "B2B",
+      "E-commerce"
+    ],
+    "website": "https://www.joinfleek.com/"
+  },
+  {
+    "name": "Fresh Factory",
+    "industry": "B2B",
+    "subindustry": "B2B -> Supply Chain and Logistics",
+    "description": "Smart Cold Chain Fulfillment Platform",
+    "team_size": 100,
+    "founded_year": "Wint",
+    "tags": [
+      "Warehouse Management Tech",
+      "B2B",
+      "Logistics"
+    ],
+    "website": "http://freshfactory.id/"
+  },
+  {
+    "name": "Latent Space",
+    "industry": "Consumer",
+    "subindustry": "Consumer",
+    "description": "Applied AI for The Emerging Economies",
+    "team_size": 100,
+    "founded_year": "Summ",
+    "tags": [
+      "SaaS",
+      "Workflow Automation",
+      "AI"
+    ],
+    "website": "https://latentspace.sh/"
+  }
+]

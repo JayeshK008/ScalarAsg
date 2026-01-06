@@ -1,0 +1,61 @@
+# Asana Simulation Configuration
+# Controls data generation parameters
+
+# Database settings
+database:
+  path: "data/asana_simulation.db"
+  schema_path: "../schema.sql"
+  reset_on_run: false  # Set to true to drop existing tables
+
+# Organization settings
+organization:
+  company_size: 5000  # Target company size (5000-10000)
+  
+# User generation
+users:
+  target_count: 200  # Number of users to generate (null = auto-calculate from company_size)
+  active_ratio: 0.85  # Percentage of active users
+
+# Team generation
+teams:
+  # Teams generated automatically based on company size
+  min_team_size: 5
+  max_team_size: 15
+
+# Project generation
+projects:
+  # Projects generated automatically based on teams
+  projects_per_team_range: [2, 8]
+  
+# Task generation
+tasks:
+  # Tasks generated automatically based on projects
+  tasks_per_project_range: [20, 100]
+  completion_rate: 0.70  # 70% of tasks completed
+  
+# Date ranges
+date_ranges:
+  # How far back to generate historical data
+  start_date: "2023-01-01"
+  end_date: null  # null = today
+  
+# Performance settings
+performance:
+  batch_size: 1000  # Records per batch insert
+  log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+  show_progress: true  # Show progress bars
+
+# Generation order (do not change unless you know what you're doing)
+generation_order:
+  - organizations
+  - users
+  - teams
+  - projects
+  - sections
+  - tags
+  - tasks
+  - dependencies
+  - comments
+  - attachments
+  - custom_fields
+  - task_tags

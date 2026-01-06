@@ -1,0 +1,13 @@
+# Ignore the specific database file
+src/data/generation.log
+
+# Ignore any other SQLite databases in the project
+*.db
+*.sqlite3
+
+# Ignore Python cache and environment files
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env

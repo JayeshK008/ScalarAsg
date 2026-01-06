@@ -1,0 +1,42 @@
+{
+  "source": "Multiple public job posting datasets",
+  "job_titles": [
+    "Customer Success Associate - Public Sector",
+    "Customer Success Manager",
+    "Corporate Account Executive",
+    "Software Engineering Full-Time Campus Hire - NYC",
+    "Customer Experience Lead",
+    "Software Engineer - New Grad",
+    "Senior Account Executive, Sponsorships",
+    "Account Executive",
+    "Customer Success Associate",
+    "Data Analyst I",
+    "Data Analyst II, Subscriptions",
+    "Account Executive - PayPal Ads",
+    "Software Engineering Internship - NYC",
+    "Account Executive - Upper Manhattan",
+    "Client Success Manager",
+    "Software Engineer 1",
+    "Analyst, Data Analytics",
+    "Software Engineer, Autonomy-New Grad",
+    "Enterprise Account Executive",
+    "Customer Success Manager - Top Accounts",
+    "Product Manager",
+    "Data Analyst",
+    "Product Manager - Creator",
+    "Software Engineer I"
+  ],
+  "department_distribution": {
+    "Customer Success": 0.25,
+    "Sales": 0.25,
+    "Engineering": 0.25,
+    "Data": 0.167,
+    "Product": 0.083
+  },
+  "seniority_distribution": {
+    "Junior/Entry": 0.125,
+    "Mid-Level": 0.625,
+    "VP/Executive": 0.208,
+    "Senior": 0.042
+  }
+}

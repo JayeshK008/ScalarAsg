@@ -1,0 +1,51 @@
+{
+  "source_families": [
+    "Asana Template Gallery",
+    "Agile & Scrum project patterns",
+    "SaaS product launch and marketing playbooks"
+  ],
+  "templates": [
+    {
+      "name": "Engineering Sprint",
+      "department": "Engineering",
+      "duration_days_range": [10, 20],
+      "tasks_range": [15, 35],
+      "sections": ["Backlog", "In Progress", "Code Review", "Testing", "Done"]
+    },
+    {
+      "name": "Product Launch",
+      "department": "Product",
+      "duration_days_range": [60, 120],
+      "tasks_range": [25, 60],
+      "sections": ["Planning", "Development", "Testing", "Launch", "Post-Launch"]
+    },
+    {
+      "name": "Marketing Campaign",
+      "department": "Marketing",
+      "duration_days_range": [30, 90],
+      "tasks_range": [20, 45],
+      "sections": ["Research", "Creative", "Production", "Launch", "Analysis"]
+    },
+    {
+      "name": "Customer Onboarding",
+      "department": "Customer Success",
+      "duration_days_range": [30, 60],
+      "tasks_range": [12, 30],
+      "sections": ["Kickoff", "Setup", "Training", "Go-Live", "Follow-Up"]
+    },
+    {
+      "name": "Infrastructure Project",
+      "department": "Engineering",
+      "duration_days_range": [90, 180],
+      "tasks_range": [40, 80],
+      "sections": ["Planning", "Implementation", "Migration", "Validation", "Cleanup"]
+    },
+    {
+      "name": "Quarterly Planning",
+      "department": "Operations",
+      "duration_days_range": [14, 30],
+      "tasks_range": [8, 25],
+      "sections": ["Data Collection", "Analysis", "Planning", "Review", "Execution"]
+    }
+  ]
+}

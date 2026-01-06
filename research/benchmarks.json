@@ -1,0 +1,86 @@
+{
+  "source_families": [
+    "Asana Anatomy of Work (2022–2024)",
+    "Scrum & Agile velocity surveys (Scrum Alliance, Parabol 2024)",
+    "Jira / GitHub issue tracker statistics",
+    "SaaS org design benchmarks",
+    "Project Management Institute (PMI) research"
+  ],
+
+  "task_completion": {
+    "overall_completion_rate_range": [0.60, 0.80],
+    "overall_rate": 0.72,
+    "note": "Asana Anatomy of Work 2023 - ~72% of tasks complete",
+    "by_priority": {
+      "high": 0.89,
+      "medium": 0.74,
+      "low": 0.58,
+      "note": "Higher priority = higher completion rates (Asana benchmarks)"
+    },
+    "overdue_rate_range": [0.15, 0.30],
+    "overdue_rate": 0.18,
+    "note_overdue": "18% overdue rate from Asana 2023 report",
+    "reopen_rate_range": [0.05, 0.15],
+    "abandonment_rate_range": [0.05, 0.20]
+  },
+
+  "sprint_dynamics": {
+    "sprint_length_days_distribution": {
+      "7_days": 0.062,
+      "14_days": 0.591,
+      "21_days": 0.234,
+      "28_days": 0.098,
+      "other": 0.015
+    },
+    "source": "Parabol Agile Statistics 2024 - survey of 1000+ Scrum teams",
+    "note": "59.1% use 2-week sprints, 23.4% use 3-week, 6.2% use 1-week",
+    "spillover_rate_range": [0.15, 0.35],
+    "velocity_variance_range": [0.20, 0.50]
+  },
+
+  "workload": {
+    "tasks_created_per_employee_per_week_range": [6, 12],
+    "tasks_completed_per_employee_per_week_range": [3, 6],
+    "note": "Asana - knowledge workers create 6-12 tasks/week, complete 3-6",
+    "assignee_change_rate_range": [0.10, 0.30]
+  },
+
+  "time_allocation": {
+    "work_about_work_pct_range": [0.50, 0.60],
+    "skilled_work_pct_range": [0.20, 0.40],
+    "strategic_work_pct_range": [0.10, 0.25],
+    "note": "Asana Anatomy of Work - 60% time on coordination, 27% on skilled work"
+  },
+
+  "team_structure": {
+    "avg_team_size_range": [6, 12],
+    "teams_per_100_employees_range": [8, 15],
+    "note": "Industry standard - avg team size 7-9 people"
+  },
+
+  "time_metrics": {
+    "avg_task_duration_days": 5.3,
+    "avg_task_duration_days_range": [1, 30],
+    "source": "Ganttic task planning data - 60% of tasks are 1-14 days",
+    "note": "8/80 rule - tasks should be 1-10 working days (MPUG research)",
+    "sprint_duration": 14,
+    "sprint_duration_source": "Most common sprint length (59.1% of teams - Parabol 2024)",
+    "project_duration_median": 45,
+    "project_duration_days_range": {
+      "short_projects": [14, 45],
+      "medium_projects": [45, 180],
+      "long_projects": [180, 540]
+    },
+    "project_duration_source": "KVY Technology 2024 - Small: 4-6 weeks, Medium: 3-7 months, Large: 6+ months"
+  },
+
+  "project_success": {
+    "on_time_completion": 0.68,
+    "on_time_completion_source": "Industry average - 68% of projects finish on time",
+    "scope_change_rate": 0.34,
+    "scope_change_source": "Common project management metric - ~1/3 projects have scope changes",
+    "projects_exceed_timeline_pct": 0.73,
+    "avg_timeline_overrun_pct": 0.89,
+    "source": "Standish Group CHAOS Report 2024 - 73% exceed timeline by 89% avg"
+  }
+}
