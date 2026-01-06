@@ -7,11 +7,29 @@
   ],
   "issue_samples": [
     {
-      "title": "extensions: TreeItem `no-twisty` CSS not always following TreeItemCollapsibleState in 1.107.x (and Insiders)",
+      "title": "Align jsdoc for `QuickPickItem#resourceUri` and `TreeItem#resourceUri`",
+      "labels": [],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 1,
+      "has_assignee": true
+    },
+    {
+      "title": "Test: Finalized Prompt API for QuickPick/InputBox",
       "labels": [
-        "bug",
-        "tree-views",
-        "insiders-released"
+        "testplan-item"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Support prompt for QuickPick as well as InputBox",
+      "labels": [
+        "feature-request",
+        "quick-pick",
+        "on-testplan"
       ],
       "repo": "vscode",
       "state": "closed",
@@ -19,105 +37,131 @@
       "has_assignee": true
     },
     {
-      "title": "The Move options in the tab editor context menu move the wrong tab",
+      "title": "Agent sessions - show agent sessions sidebar feedback",
       "labels": [
-        "bug",
-        "workbench-tabs",
-        "confirmed"
+        "ux",
+        "under-discussion",
+        "chat-agents-view"
       ],
       "repo": "vscode",
-      "state": "closed",
-      "comments": 1,
-      "has_assignee": true
-    },
-    {
-      "title": "Git commands are expected to run with english language, yet the language isn’t set reliably, breaking features",
-      "labels": [
-        "bug",
-        "git",
-        "insiders-released"
-      ],
-      "repo": "vscode",
-      "state": "closed",
-      "comments": 0,
-      "has_assignee": true
-    },
-    {
-      "title": "Increase number of allowed webgl contexts in electron",
-      "labels": [
-        "bug",
-        "electron",
-        "insiders-released"
-      ],
-      "repo": "vscode",
-      "state": "closed",
-      "comments": 0,
-      "has_assignee": true
-    },
-    {
-      "title": "Inconsistent Naming: Voice vs Dictation",
-      "labels": [
-        "bug",
-        "insiders-released",
-        "workbench-voice"
-      ],
-      "repo": "vscode",
-      "state": "closed",
-      "comments": 0,
-      "has_assignee": true
-    },
-    {
-      "title": "Allow writing prompt with voice when session is in progress",
-      "labels": [
-        "feature-request",
-        "verification-needed",
-        "insiders-released"
-      ],
-      "repo": "vscode",
-      "state": "closed",
+      "state": "open",
       "comments": 3,
       "has_assignee": true
     },
     {
-      "title": "U",
-      "labels": [
-        "spam"
-      ],
+      "title": "#include looping",
+      "labels": [],
       "repo": "vscode",
-      "state": "closed",
-      "comments": 1,
+      "state": "open",
+      "comments": 0,
       "has_assignee": false
     },
     {
-      "title": "Notebook cell incorrectly sized on load",
+      "title": "Implement Flatpak portals and an official Flatpak on Flathub",
       "labels": [
-        "bug",
-        "insiders-released",
-        "notebook-layout"
+        "install-update",
+        "linux"
       ],
       "repo": "vscode",
-      "state": "closed",
+      "state": "open",
       "comments": 0,
       "has_assignee": true
     },
     {
-      "title": "Cell editors overlap on scroll",
+      "title": "bug: Native support for fish shell in Copilot Chat: Multiline command handling and terminal stability",
       "labels": [
-        "bug",
-        "insiders-released",
-        "notebook-layout"
+        "help wanted",
+        "feature-request",
+        "terminal-shell-fish"
       ],
       "repo": "vscode",
-      "state": "closed",
+      "state": "open",
+      "comments": 3,
+      "has_assignee": true
+    },
+    {
+      "title": "Worktrees not preserving last selected location",
+      "labels": [
+        "bug",
+        "git"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 1,
+      "has_assignee": true
+    },
+    {
+      "title": "python debug mode interface display issue",
+      "labels": [],
+      "repo": "vscode",
+      "state": "open",
       "comments": 0,
       "has_assignee": true
     },
     {
-      "title": "[regression] Suggest status bar lost their keybinding labels",
+      "title": "Test: Finalized resourceUri API for QuickPickItem",
+      "labels": [
+        "testplan-item"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Reopen Closed Repositories > All Repositories does not reopen worktrees",
       "labels": [
         "bug",
-        "important",
-        "suggest"
+        "git"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 1,
+      "has_assignee": true
+    },
+    {
+      "title": "File icons for QuickPickItem",
+      "labels": [
+        "feature-request",
+        "quick-pick",
+        "on-testplan"
+      ],
+      "repo": "vscode",
+      "state": "closed",
+      "comments": 14,
+      "has_assignee": true
+    },
+    {
+      "title": "\"Error creating worktree\"",
+      "labels": [
+        "bug",
+        "info-needed"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 4,
+      "has_assignee": true
+    },
+    {
+      "title": "Bootstrap extensions does not appear to work",
+      "labels": [],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "GitHub Copilot Chat unable to adjust code in Jupyter Notebooks",
+      "labels": [],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "autoApprove rules should match the most specific rule",
+      "labels": [
+        "*as-designed"
       ],
       "repo": "vscode",
       "state": "closed",
@@ -125,17 +169,40 @@
       "has_assignee": true
     },
     {
-      "title": "Unhandled `CancellationError` in WordHighlighter when disposed during pending delayed operation.",
+      "title": "TPI: setting font size, font family and line height in custom token customization",
       "labels": [
-        "insiders-released"
+        "testplan-item"
       ],
       "repo": "vscode",
-      "state": "closed",
-      "comments": 1,
+      "state": "open",
+      "comments": 0,
       "has_assignee": true
     },
     {
-      "title": "Make it more obvious when auto approval is denied by a false rule",
+      "title": "Strange rendering of 'Autoapprovaldeniedbyrule`",
+      "labels": [
+        "bug",
+        "chat-terminal"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Terminal: Implement Kitty graphics protocol support",
+      "labels": [
+        "feature-request",
+        "terminal-rendering",
+        "terminal-parser"
+      ],
+      "repo": "vscode",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": true
+    },
+    {
+      "title": "Agent Skills alignment",
       "labels": [
         "feature-request",
         "verification-needed",
@@ -143,40 +210,14 @@
       ],
       "repo": "vscode",
       "state": "closed",
-      "comments": 0,
+      "comments": 1,
       "has_assignee": true
     },
     {
-      "title": "Cannot read properties of undefined (reading 'querySelector')",
+      "title": "Agent sessions - back button in the title feedback",
       "labels": [
-        "error-telemetry",
-        "insiders-released"
-      ],
-      "repo": "vscode",
-      "state": "closed",
-      "comments": 0,
-      "has_assignee": true
-    },
-    {
-      "title": "Terminal file links (Ctrl+Click) not working after latest VS Code update",
-      "labels": [],
-      "repo": "vscode",
-      "state": "open",
-      "comments": 0,
-      "has_assignee": false
-    },
-    {
-      "title": "GitHub Copilot chat text entry periodically freezes typing for several seconds",
-      "labels": [],
-      "repo": "vscode",
-      "state": "open",
-      "comments": 6,
-      "has_assignee": true
-    },
-    {
-      "title": "File link <filename>:<linenumber> no longer clickable from log file",
-      "labels": [
-        "triage-needed"
+        "under-discussion",
+        "chat-agents-view"
       ],
       "repo": "vscode",
       "state": "open",
@@ -184,47 +225,58 @@
       "has_assignee": true
     },
     {
-      "title": "VScode test web issue",
+      "title": "Settings Sync automatically logs out when using Personal Microsoft account - Error Code 3399614467",
       "labels": [
-        "triage-needed"
+        "bug",
+        "upstream",
+        "authentication-microsoft"
       ],
       "repo": "vscode",
       "state": "open",
-      "comments": 1,
+      "comments": 49,
       "has_assignee": true
     },
     {
-      "title": "Copilot is not replying",
-      "labels": [
-        "triage-needed"
-      ],
-      "repo": "vscode",
+      "title": "AI Enhancement Proposal - Issue #35204",
+      "labels": [],
+      "repo": "react",
       "state": "open",
       "comments": 0,
-      "has_assignee": true
+      "has_assignee": false
     },
     {
-      "title": "Double click after curly brace to select the content",
+      "title": "[DevTools Bug] Cannot add node \"909\" because a node with that id is already in the Store.",
       "labels": [
-        "feature-request",
-        "editor-bracket-matching"
+        "Type: Bug",
+        "Status: Unconfirmed",
+        "Component: Developer Tools"
       ],
-      "repo": "vscode",
+      "repo": "react",
       "state": "open",
-      "comments": 15,
-      "has_assignee": true
+      "comments": 18,
+      "has_assignee": false
     },
     {
-      "title": "Glob matching should be case insensitive",
+      "title": "Bug: ViewTransition is not working in rtl",
       "labels": [
-        "feature-request",
-        "search",
-        "file-glob"
+        "Status: Unconfirmed"
       ],
-      "repo": "vscode",
+      "repo": "react",
       "state": "open",
-      "comments": 46,
-      "has_assignee": true
+      "comments": 0,
+      "has_assignee": false
+    },
+    {
+      "title": "[DevTools Bug]:",
+      "labels": [
+        "Type: Bug",
+        "Status: Unconfirmed",
+        "Component: Developer Tools"
+      ],
+      "repo": "react",
+      "state": "open",
+      "comments": 0,
+      "has_assignee": false
     },
     {
       "title": "Bug: I have found one issue on your blog.",
@@ -327,39 +379,7 @@
       "has_assignee": false
     },
     {
-      "title": "Illegal Constructor error if ViewTransition is not imported",
-      "labels": [
-        "Status: Unconfirmed",
-        "Resolution: Stale"
-      ],
-      "repo": "react",
-      "state": "closed",
-      "comments": 2,
-      "has_assignee": false
-    },
-    {
-      "title": "Bug: stylesheets that use precedence are significantly slower to render at scale",
-      "labels": [
-        "Status: Unconfirmed",
-        "Resolution: Stale"
-      ],
-      "repo": "react",
-      "state": "open",
-      "comments": 8,
-      "has_assignee": false
-    },
-    {
-      "title": "Minified function names in turbopack prod builds for server-side code",
-      "labels": [
-        "Turbopack"
-      ],
-      "repo": "next.js",
-      "state": "open",
-      "comments": 1,
-      "has_assignee": true
-    },
-    {
-      "title": "OG rendering SVG title element",
+      "title": "ViewTransition not working in rtl app",
       "labels": [],
       "repo": "next.js",
       "state": "open",
@@ -367,53 +387,44 @@
       "has_assignee": false
     },
     {
-      "title": "Error: No package found with name '@next/bundle-analyzer-ui' in workspace",
+      "title": "Turbopack: importing `.avif` files fails with ‘AVIF image not supported’ warnings",
       "labels": [
-        "locked"
-      ],
-      "repo": "next.js",
-      "state": "closed",
-      "comments": 1,
-      "has_assignee": false
-    },
-    {
-      "title": "Docs:",
-      "labels": [
-        "locked"
-      ],
-      "repo": "next.js",
-      "state": "closed",
-      "comments": 1,
-      "has_assignee": false
-    },
-    {
-      "title": "Docs: demo how to build 1-page at a time to debug",
-      "labels": [
-        "locked",
-        "Improvement"
-      ],
-      "repo": "next.js",
-      "state": "closed",
-      "comments": 4,
-      "has_assignee": true
-    },
-    {
-      "title": "Not seeing not-found page on production deployment with dynamicParams = false",
-      "labels": [
-        "bug",
-        "stale"
+        "Turbopack",
+        "linear: turbopack"
       ],
       "repo": "next.js",
       "state": "open",
-      "comments": 7,
+      "comments": 14,
+      "has_assignee": false
+    },
+    {
+      "title": "Duplicate Location and x-nextjs-stale-time in Header using redirect/permanentRedirect alongside dynamic 'force-static'",
+      "labels": [
+        "linear: next",
+        "Headers"
+      ],
+      "repo": "next.js",
+      "state": "open",
+      "comments": 5,
+      "has_assignee": false
+    },
+    {
+      "title": "Turbopack removes styles from TailwindCSS/DaisyUI",
+      "labels": [
+        "Turbopack",
+        "linear: turbopack"
+      ],
+      "repo": "next.js",
+      "state": "open",
+      "comments": 16,
       "has_assignee": false
     }
   ],
   "statistics": {
-    "total_issues_scraped": 38,
-    "avg_title_length": 58.4,
-    "with_labels": 0.89,
+    "total_issues_scraped": 40,
+    "avg_title_length": 56.8,
+    "with_labels": 0.8,
     "with_assignees": 0.53,
-    "avg_comments": 6.2
+    "avg_comments": 6.7
   }
 }

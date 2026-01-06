@@ -220,6 +220,7 @@ Example:
 # Regenerate everything for an 8000-person company, dropping previous tables:
 python src/main.py --company-size 8000 --reset
 ```
+if you get any error try deleting asana_simulation.db from src/data
 
 ## Pre-generated Database (Large File Notice)
 
